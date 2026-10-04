@@ -120,6 +120,4 @@ Veri-Analizi/
 
 Excel dosyası özgün içeriğiyle `data/` klasörüne taşınmıştır. Özgün `A_MİLLİ_TAKIM_.pptx` sunumu, dosya adındaki Unicode uyumluluğunu kolaylaştırmak için `presentation/A_MILLI_TAKIMI.pptx` adıyla saklanır. Her iki dosyanın içeriği değiştirilmemiştir. Statik önizlemeler dosyaların yerini tutmaz.
 
-## Proje ekibi
 
-Bu repo Eren Uçar'ın portföyünde yer alır. Sunumun son slaytında hazırlayanlar **Eren Uçar, Ozan İdgü, Sefer Kırkzaman, Şüheda Talas ve Hüseyin Çeçen** olarak listelenmiştir. Kaynak dosyalarda bireysel görev dağılımı belirtilmez.
